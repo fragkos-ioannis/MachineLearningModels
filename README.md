@@ -1,3 +1,3 @@
 # MachineLearningModels
 
-In this repository you can find Machine Learning models from scratch in Python.
+In this repository you can find Machine Learning algorithms from scratch in Python.
